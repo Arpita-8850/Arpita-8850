@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/79199489/189546317-26b61533-b92e-42ee-96cf-1af75a1de0e7.gif" width="1000">
 </br>
 <h1 align="center">Hola 👋, I'm Arpita Kar</h1>
-<h3 align="center">A student and a passionate web developer ;)</h3>
+<h3 align="center">A student and a passionate web developer ; ) </h3>
 
 <p align="left">I am a Diploma graduate in Electronics Engineering and currently pursuing B.E in Electronics and Computer Science from Fr. Conceicao Rodrigues College of Engineering, Bandra. I am a thrilled learner, dancer & trekker. I am experienced in public speaking, leadership & presentation skills.</p>
 
@@ -13,9 +13,7 @@
 
 📄 Know about my experiences [https://arpita-8850.github.io/arpita.live/](https://arpita-8850.github.io/arpita.live/)
 
-</br>
 <img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" width="150" />
-
 
 # 🌐 Socials:
 <p align="left">
@@ -36,5 +34,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://user-images.githubusercontent.com/79199489/189548939-5b4a0208-dede-4636-9315-1c281270ed44.gif" width="1000" height="400">
