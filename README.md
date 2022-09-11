@@ -3,6 +3,7 @@
 <h1 align="center">Hola 👋, I'm Arpita Kar</h1>
 <h3 align="center">A student and a passionate web developer ;)</h3>
 
+<p align="left">I am a Diploma graduate in Electronics Engineering and currently pursuing B.E in Electronics and Computer Science from Fr. Conceicao Rodrigues College of Engineering, Bandra. I am a thrilled learner, dancer & trekker. I am experienced in public speaking, leadership & presentation skills.</p>
 
 🔭 I’m currently working on **Docikarft**
 
@@ -12,6 +13,7 @@
 
 📄 Know about my experiences [https://arpita-8850.github.io/arpita.live/](https://arpita-8850.github.io/arpita.live/)
 
+</br>
 <img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" width="150" />
 
 
@@ -29,11 +31,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arpita-8850&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-<img src="https://user-images.githubusercontent.com/79199489/189547396-a0fa9728-22cf-489c-bf7d-3628ec106634.gif" width="950" height="450">
-![12f1c717c848ca9da6b38d83bef0ecc4](https://user-images.githubusercontent.com/79199489/189547396-a0fa9728-22cf-489c-bf7d-3628ec106634.gif)
-
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
