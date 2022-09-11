@@ -1,8 +1,5 @@
 ![7d07a255678962d30d8717dcf5dbd266](https://user-images.githubusercontent.com/79199489/189545791-fd325d5f-d320-4f0e-89e9-331ba4023b66.gif)
 
-![lofi-browsing](https://user-images.githubusercontent.com/79199489/189545871-6a3a1c1e-55b4-4877-83a0-208b9eaeb115.gif)
-
-
 <h1 align="center">Hola 👋, I'm Arpita Kar</h1>
 <h3 align="center">A student and a passionate web developer ;)</h3>
 <img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" /> 
@@ -27,8 +24,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpita-8850&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arpita-8850&theme=radical&hide_border=false)<br/></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ### ✍️ Random Dev Quote
