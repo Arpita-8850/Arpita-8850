@@ -1,3 +1,8 @@
+![7d07a255678962d30d8717dcf5dbd266](https://user-images.githubusercontent.com/79199489/189545791-fd325d5f-d320-4f0e-89e9-331ba4023b66.gif)
+
+![lofi-browsing](https://user-images.githubusercontent.com/79199489/189545871-6a3a1c1e-55b4-4877-83a0-208b9eaeb115.gif)
+
+
 <h1 align="center">Hola 👋, I'm Arpita Kar</h1>
 <h3 align="center">A student and a passionate web developer ;)</h3>
 <img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" /> 
@@ -23,11 +28,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpita-8850&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arpita-8850&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-8850&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
