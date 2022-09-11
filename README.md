@@ -1,7 +1,7 @@
-![7d07a255678962d30d8717dcf5dbd266](https://user-images.githubusercontent.com/79199489/189545791-fd325d5f-d320-4f0e-89e9-331ba4023b66.gif)
-
 <h1 align="center">Hola 👋, I'm Arpita Kar</h1>
 <h3 align="center">A student and a passionate web developer ;)</h3>
+![7d07a255678962d30d8717dcf5dbd266](https://user-images.githubusercontent.com/79199489/189545791-fd325d5f-d320-4f0e-89e9-331ba4023b66.gif)
+</br>
 <img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" /> 
 
 🔭 I’m currently working on **Docikarft**
@@ -18,6 +18,10 @@
 <a href="https://fb.com/https://www.facebook.com/arpita.kar.56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arpita.kar.56/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/arpita_kar7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arpita_kar7/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/crce_9073_ecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/crce_9073_ecs" height="30" width="40" /></a>
+</p>
+
+<p float="right">
+![Uploading lofi-girl-lofi.gif…]()
 </p>
 
 # 💻 Languages and Tools:
