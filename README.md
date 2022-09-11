@@ -1,12 +1,10 @@
+<img src="https://user-images.githubusercontent.com/79199489/189546317-26b61533-b92e-42ee-96cf-1af75a1de0e7.gif" width="1000">
+</br>
 <h1 align="center">Hola 👋, I'm Arpita Kar</h1>
 <h3 align="center">A student and a passionate web developer ;)</h3>
+<align="center" img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" /> 
 
-![7d07a255678962d30d8717dcf5dbd266](https://user-images.githubusercontent.com/79199489/189546317-26b61533-b92e-42ee-96cf-1af75a1de0e7.gif)
-</br>
-<img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" /> 
-
-<img align="right" width="150" height="150" src="![Uploading lofi-girl-lofi.gif…]()"></a>
-
+![Uploading lofi-girl-lofi.gif…]()
 
 
 🔭 I’m currently working on **Docikarft**
@@ -36,4 +34,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-![lofi-browsing](https://user-images.githubusercontent.com/79199489/189546635-73d13ffd-8c04-458d-842f-821292a491a8.gif)
+<img src="https://user-images.githubusercontent.com/79199489/189546635-73d13ffd-8c04-458d-842f-821292a491a8.gif" width="950" height="450">
