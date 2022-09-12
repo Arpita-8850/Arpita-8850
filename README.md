@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arpita Kar</h1>
+
+<a align="center" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?    font=Pacifico&size=30&duration=4000&pause=990&color=6ACBD9&width=435&lines=I+am+a+student;I+am+passionate+web+developer" alt="Typing SVG" /></a>
+
 <img src="https://user-images.githubusercontent.com/79199489/189546317-26b61533-b92e-42ee-96cf-1af75a1de0e7.gif" width="950">
 
-<h3 align="center">A student and a passionate web developer ; ) </h3>
 
 <p align="left">I am a Diploma graduate in Electronics Engineering and currently pursuing B.E in Electronics and Computer Science from Fr. Conceicao Rodrigues College of Engineering, Bandra. I am a thrilled learner, dancer & trekker. I am experienced in public speaking, leadership & presentation skills.</p>
 
