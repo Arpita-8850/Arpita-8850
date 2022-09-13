@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arpita Kar</h1>
 
-<a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?    font=Pacifico&size=30&duration=4000&pause=990&color=6ACBD9&width=435&lines=I+am+a+student;I+am+passionate+web+developer" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?    font=Pacifico&size=36&duration=4000&pause=990&color=6ACBD9&width=440&lines=I+am+a+student;I+am+passionate+web+developer" alt="Typing SVG" />
+  </a>
+  </p>
 
 <img src="https://user-images.githubusercontent.com/79199489/189546317-26b61533-b92e-42ee-96cf-1af75a1de0e7.gif" width="950">
 
