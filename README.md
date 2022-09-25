@@ -8,17 +8,21 @@
   
 <img src="https://user-images.githubusercontent.com/79199489/189546317-26b61533-b92e-42ee-96cf-1af75a1de0e7.gif" width="950">
 
-<p align="left">I am a Diploma graduate in Electronics Engineering and currently pursuing B.E in Electronics and Computer Science from Fr. Conceicao Rodrigues College of Engineering, Bandra. I am a thrilled learner, dancer & trekker. I am experienced in public speaking, leadership & presentation skills.</p>
+<p align="left">I am a Diploma graduate in Electronics Engineering and currently pursuing B.E in Electronics and Computer Science from Fr. Conceicao Rodrigues College of Engineering, Bandra. I am a thrilled learner & a web developer. I am experienced in public speaking, leadership & presentation skills. To know more about me, vist my website.</p>
 
 <img align="right" width="230" height="200" src="https://user-images.githubusercontent.com/79199489/192131694-572a9cc7-5f82-4932-9501-cfbdd91fe511.gif">
 
 🔭 I’m currently working on **Docikarft**
+
+🌱 I’m currently learning **Angular**
 
 👨‍💻 All of my projects are available at [https://github.com/Arpita-8850](https://github.com/Arpita-8850)
 
 📫 How to reach me **karpita8850@gmail.com**
 
 📄 Know about my experiences [https://arpita-8850.github.io/arpita.live/](https://arpita-8850.github.io/arpita.live/)
+
+⚡ Fun fact **I am a trekker, dancer & singer**
 
 <img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" width="150" />
 
