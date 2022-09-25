@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Arpita Kar</h1>
+<h1 align="center">Hello👋 Tech Geeks...🧑🏻‍💻</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?    font=Pacifico&size=36&duration=4000&pause=990&color=6ACBD9&width=440&lines=I+am+a+student;I+am+passionate+web+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?    font=Pacifico&size=40&duration=4000&pause=900&color=6ACBD9&width=500&height=80&lines=This+is+Arpita+Kar.....🦸🏻‍♀️;I+am+a+student.....👩‍🎓;and+☝🏼;a+passionate+web+developer👾" alt="Typing SVG" />
   </a>
   </p>
-
+  
 <img src="https://user-images.githubusercontent.com/79199489/189546317-26b61533-b92e-42ee-96cf-1af75a1de0e7.gif" width="950">
 
-
 <p align="left">I am a Diploma graduate in Electronics Engineering and currently pursuing B.E in Electronics and Computer Science from Fr. Conceicao Rodrigues College of Engineering, Bandra. I am a thrilled learner, dancer & trekker. I am experienced in public speaking, leadership & presentation skills.</p>
+
+<img align="right" width="230" height="200" src="https://user-images.githubusercontent.com/79199489/192131694-572a9cc7-5f82-4932-9501-cfbdd91fe511.gif">
 
 🔭 I’m currently working on **Docikarft**
 
@@ -20,6 +21,7 @@
 📄 Know about my experiences [https://arpita-8850.github.io/arpita.live/](https://arpita-8850.github.io/arpita.live/)
 
 <img src="https://visitcount.itsvg.in/api?id=arpita-8850&icon=0&color=5" alt="arpita-8850" width="150" />
+
 
 # 🌐 Socials:
 <p align="left">
@@ -42,4 +44,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-<img src="https://user-images.githubusercontent.com/79199489/189548939-5b4a0208-dede-4636-9315-1c281270ed44.gif" width="1000" height="400">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/79199489/192133174-08250b4f-9f9c-48fa-98c0-86eeff23d97f.gif" width="800" height="400">
+</p>
